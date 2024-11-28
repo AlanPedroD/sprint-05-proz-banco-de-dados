@@ -12,4 +12,6 @@
 
 [Link Diagrama do banco de dados](https://app.brmodeloweb.com/#!/publicview/6747d0e04a977fcccf61bac0) 
  
+[Link Tabelas banco de dados](https://1drv.ms/x/c/4ba6bb8d6b93e83f/EQKQbMtFuZdFgwgSHzmTWZUBd0r6iZxZp7H61PwNB8Hpjg?e=5MRDhF) 
+
 [Link Projeto Web](https://alanpedrod.github.io/sprint-04-projeto-integrador-css/) 
